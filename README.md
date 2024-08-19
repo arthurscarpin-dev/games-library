@@ -12,7 +12,7 @@ Game library developed in Flask.
 ### How to execute?
 1. Clone the remote repository.
 ```
-git clone git@github.com:arthurscarpin-dev/school-api.git
+git clone git@github.com:arthurscarpin-dev/games-library.git
 ```
 
 2. Create the Python virtual environment.
