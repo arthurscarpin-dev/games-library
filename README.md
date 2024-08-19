@@ -1,5 +1,5 @@
 # GAMES LIBRARY
-CRUD developed using Flask.
+Game library developed in Flask.
 
 ### Tech Stack:
 <p align="left">
